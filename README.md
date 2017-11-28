@@ -8,7 +8,7 @@ The director table consists of four fields, including: director_id (PK), first_n
 
 
 The relationships amongst the tables for the database are the following: 
-  A Movie is directed by one and only one director, but a director can direct one-to-many movies. 
+  A Movie is directed by one and only one director, but a director can direct one-to-many movies.
 
 
 
